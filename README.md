@@ -1,2 +1,1 @@
-# absen-guru-pc
-Absen Guru untuk PC
+Aplikasi untuk memudahkan absen guru.
